@@ -1,0 +1,31 @@
+/* common fonts */
+.Main-font{
+  font-family: "Playfair Display", serif;
+}
+/* header style here */
+.container{
+    font-family: "Playfair Display", serif;
+    background-image: url("/images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    height: 500px; 
+    margin-top: 50px;
+   background-position: center;
+}
+.m-titles{
+position: absolute;
+margin-top: 200px;
+margin-left: 600px;
+
+}
+.h3{
+    margin-left: 120px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.h1{
+    font-weight: 800;
+    font-size: 40px;
+}
+/* header styles ends here */
+
+/* main styles start here */
