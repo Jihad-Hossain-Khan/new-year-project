@@ -29,3 +29,25 @@ margin-left: 600px;
 /* header styles ends here */
 
 /* main styles start here */
+.offer-container{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.o-img{
+ height: 300px;
+ 
+}
+.offer-p{
+    color: #FF0000;
+    margin-left: 100px;
+}
+.o-h3{
+    color: black;
+    margin-left: 150px;
+}
+.o-title{
+    color: #FF0000;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 130px;
+}
